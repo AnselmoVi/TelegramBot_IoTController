@@ -2,4 +2,6 @@
 KEYWORDS: IOT, FLASK, Python, BOT, Arduino, Request
 This Bot allows you to Turn on/Off your IoT hardware through a Telegram bot
 
-Questo bot ti permette di gestire il tuo dispositivo IOT tramite un bot telegram. Il programma dentro il controllore( simil arduino) resta in attesa (webook) di comandi che sono inviati da un bot telegram tramite l'utilizzo della libreria request
+Gestisci il tuo dispositivo IOT tramite un bot telegram. In questo progetto viene utilizzata una scheda NodeMcu v3 per controllare un dispositivo hardware da remoto attraverso un bot telegram programmato in Python.
+
+
